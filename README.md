@@ -2,7 +2,7 @@
 
 - 🎓 Recent Computer Science graduate  
 - 🧱 I enjoy building full-stack apps with JavaScript  
-- 🚀 Projects: [Work Management System](repo_link), [E-Commerce App](repo_link)  
-- 🔎 Always learning and aiming to grow as a backend-focused dev  
+- 🚀 Projects: [Work Management System]([repo_link](https://github.com/bashirdol03/WorkManagementSytem)), [E-Commerce App](https://github.com/bashirdol03/Ecommerce)  
+- 🔎 Always learning and aiming to grow as a full-stack developer
 
-📫 [GitHub](https://github.com/bashirdol03)
+
