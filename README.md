@@ -1,11 +1,4 @@
-‎README.md
-+1
--1
-Lines changed: 1 addition & 1 deletion
-
-
-Original file line number	Diff line number	Diff line change
-@@ -2,7 +2,7 @@
+### 👋 Hi, I’m Bashir
 
 - 🎓 Recent Computer Science graduate  
 - 🧱 I enjoy building full-stack apps with JavaScript  
